@@ -8,3 +8,6 @@ I created this filter using Spark AR which allows peach icons to randomly float 
 ![Peach Filter Icon](FilterIcon.png)
 
 #### Filter Video Stills
+![Peach Filter Icon](filterImage1.PNG)
+![Peach Filter Icon](filterImage2.PNG)
+
