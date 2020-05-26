@@ -6,9 +6,9 @@ The two demo videos show the filter in use on Instagram
 ## Demo Content
 
 #### Filter Icon
-![Peach Filter Icon](FilterIcon.png)
+<img src="https://github.com/JadeLegare/Peach-Filter/blob/master/Demo_Files/FilterIcon.png" width="200">
 
-#### Filter Video Stills
-![Peach Filter Icon](filterImage1.PNG)
-![Peach Filter Icon](filterImage2.PNG)
+#### Filter Photos
+ <img src="https://github.com/JadeLegare/Peach-Filter/blob/master/Demo_Files/dogPhoto3.JPG" width="200"> <img src="https://github.com/JadeLegare/Peach-Filter/blob/master/Demo_Files/dogPhoto1.JPG" width="200"> <img src="https://github.com/JadeLegare/Peach-Filter/blob/master/Demo_Files/dogPhoto2.JPG" width="200">
+
 
